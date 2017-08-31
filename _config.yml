@@ -1,5 +1,7 @@
 ---
 title: FedUpCoder
+show_downloads: false
+google_analytics: UA-105717460-1
 timezone: Europe/Belgrade
 collections:
   posts:
