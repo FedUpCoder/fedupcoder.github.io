@@ -8,4 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+show_downloads: false
+google_analytics: UA-105717460-1
 theme: jekyll-theme-midnight
+plugins:
+- jekyll-sitemap
